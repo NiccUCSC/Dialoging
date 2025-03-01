@@ -21,7 +21,7 @@ class Title extends Phaser.Scene {
         this.load.image('narrator', 'img/narrator.png')
 
         // load bitmap font
-        this.load.bitmapFont('narrator_font', 'font/narrator_font.png', 'font/narrator_font.xml')
+        this.load.bitmapFont('narrator_font', 'font/narrator_inverted.png', 'font/narrator_font.xml')
     }
 
     create() {

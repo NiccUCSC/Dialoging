@@ -7,7 +7,7 @@ class Talking extends Phaser.Scene {
         // dialog constants
         this.DBOX_X = 0			        // dialog box x-position
         this.DBOX_Y = 400			    // dialog box y-position
-        this.DBOX_FONT = 'arcadeClassic_font'	    // dialog box font key
+        this.DBOX_FONT = 'narrator_font'	    // dialog box font key
 
         this.TEXT_X = 50			    // text w/in dialog box x-position
         this.TEXT_Y = 445			    // text w/in dialog box y-position
